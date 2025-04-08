@@ -1,8 +1,4 @@
-✅ NeoPixel/WS2812B (Addressable LEDs)
-✅ MAX7219 LED Matrix (Dot Matrix Displays)
-✅ 7-Segment LED Displays
-✅ Simple LED Arrays (via Shift Registers like 74HC595)
-✅ LED Strips (Analog or Digital Control)
+
 
 This tutorial will cover basic LED control and WiFi-enabled LED sign control using an ESP32.
 
