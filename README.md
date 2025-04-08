@@ -2,11 +2,12 @@
 
 This tutorial will cover basic LED control and WiFi-enabled LED sign control using an ESP32.
 
-📌 What You’ll Need
-Hardware Components
-ESP32 (DevKit, NodeMCU-32S, or similar)
-
-LED Sign (NeoPixel strip, MAX7219 matrix, or custom LEDs)
+📌 What You’ll Need 
+-----------------------------------------------------------
+Hardware Components                                       
+ESP32 (DevKit, NodeMCU-32S, or similar)                    
+                                                           
+LED Sign (NeoPixel strip, MAX7219 matrix, or custom LEDs)  
 
 Power Supply (5V for NeoPixels, 3.3V/5V for other LEDs)
 
@@ -22,7 +23,7 @@ Arduino IDE (Download here)
 ESP32 Board Support (Installed via Boards Manager)
 
 Required Libraries (Adafruit_NeoPixel, MD_MAX72XX, etc.)
-
+--------------------------------------------------------  
 🔧 Step 1: Setting Up Arduino IDE for ESP32
 Install Arduino IDE (if not already installed).
 
